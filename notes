@@ -3,3 +3,4 @@ git clone https://github.com/jayson-lennon/ztm-typescript.git
 cd ztm-typescript 
 git fetch origin solutions:solutions
 pnpm install 
+pnpm exec ts-node demo/boolean-logic/boolean-logic.ts
